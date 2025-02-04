@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appdelotech_FILE /Users/dimabogdanov/QtProjects/delotech/build/Qt_6_8_1_macos-Debug/appdelotech.app/Contents/MacOS/appdelotech)
+set(__QT_DEPLOY_TARGET_appdelotech_TYPE EXECUTABLE)

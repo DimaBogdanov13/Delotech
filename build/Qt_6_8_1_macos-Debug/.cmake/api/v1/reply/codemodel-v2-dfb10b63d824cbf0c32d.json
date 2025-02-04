@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ec9ecfc5ebdecda520ce.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "delotech",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-c50ec2492c5f0e2845f5.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-29a6afa3a5ad5386d230.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-96b270d346e17dfd77a2.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-d594e3b67515df0078c7.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-bf667e2305b9347e6ecb.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelotech::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelotech-Debug-50f7b5762579d0106526.json",
+					"name" : "appdelotech",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelotech_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelotech_autogen-Debug-8907e3decbd53b4584c1.json",
+					"name" : "appdelotech_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelotech_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelotech_autogen_timestamp_deps-Debug-1a534b9201c3a43879bd.json",
+					"name" : "appdelotech_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelotech_generate_qmlls_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelotech_generate_qmlls_ini_file-Debug-b2474db3cc4a52458175.json",
+					"name" : "appdelotech_generate_qmlls_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelotech_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelotech_qmlimportscan-Debug-7b0f424132ed1de2ecf2.json",
+					"name" : "appdelotech_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelotech_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelotech_qmllint-Debug-42c4eb672b47d597d491.json",
+					"name" : "appdelotech_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelotech_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelotech_qmllint_json-Debug-6bd5b081c302aa03f8fe.json",
+					"name" : "appdelotech_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelotech_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelotech_qmllint_module-Debug-5ad998daf25ffb0d13b8.json",
+					"name" : "appdelotech_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelotech_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelotech_qmltyperegistration-Debug-5a294cc12dba06aa5e91.json",
+					"name" : "appdelotech_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appdelotech_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appdelotech_tooling-Debug-fd7977b88246a2a53cd5.json",
+					"name" : "appdelotech_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appdelotech_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appdelotech_aotstats_target-Debug-00b9eedc9bccf706b1fd.json",
+					"name" : "module_appdelotech_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/dimabogdanov/QtProjects/delotech/build/Qt_6_8_1_macos-Debug",
+		"source" : "/Users/dimabogdanov/QtProjects/delotech"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

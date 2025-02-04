@@ -1,0 +1,14 @@
+-rootPath
+/Users/dimabogdanov/QtProjects/delotech
+-cmake-output
+-output-file
+/Users/dimabogdanov/QtProjects/delotech/build/Qt_6_8_1_macos-Debug/.qt/qml_imports/appdelotech_build.cmake
+-importPath
+/Users/dimabogdanov/QtProjects/delotech/build/Qt_6_8_1_macos-Debug/delotech
+-importPath
+/Users/dimabogdanov/QtProjects/delotech/build/Qt_6_8_1_macos-Debug
+-importPath
+/Users/dimabogdanov/Qt6/6.8.1/macos/qml
+-qrcFiles
+/Users/dimabogdanov/QtProjects/delotech/build/Qt_6_8_1_macos-Debug/.qt/rcc/qmake_delotech.qrc
+/Users/dimabogdanov/QtProjects/delotech/build/Qt_6_8_1_macos-Debug/.qt/rcc/appdelotech_raw_qml_0.qrc

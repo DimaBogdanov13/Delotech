@@ -1,0 +1,5 @@
+module delotech
+typeinfo appdelotech.qmltypes
+prefer :/qt/qml/delotech/
+Main 1.0 Main.qml
+
