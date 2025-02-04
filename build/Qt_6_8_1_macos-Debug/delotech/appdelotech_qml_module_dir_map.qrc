@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/delotech">/Users/dimabogdanov/QtProjects/delotech/build/Qt_6_8_1_macos-Debug/delotech</file>
-
-  </qresource>
-</RCC>

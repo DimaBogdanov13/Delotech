@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/delotech/">
-    <file alias="Main.qml">/Users/dimabogdanov/QtProjects/delotech/Main.qml</file>
-  </qresource>
-</RCC>
-
