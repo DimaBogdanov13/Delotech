@@ -11,7 +11,7 @@
         baData.insert(i, -128); <br> 
     } <br>
 
-3) Допустим на вход пришло некое число input. Тогда делаем:
+3) Допустим на вход пришло некое число input. Тогда делаем:  <br> 
     if(baData[input] < 127){ <br> 
         baData.replace(input, baData[input] + 1);  <br>          
     } <br>
